@@ -1,0 +1,2 @@
+# Project-6
+Information Visualization Project – The project was about converting data to information in the form of visualization. BI tool tableau was used to convert the given data into visual forms. The aim was to make the visualization from the data input, so that it was easy to understand . Tableau, Sankey diagram concepts, various filters, SQL commands and parameters were used to create the visualization charts for the presentation. Tableau, MS excel, MS Access, and Powerpoint were used as the main tools.
